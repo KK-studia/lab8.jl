@@ -1,0 +1,13 @@
+name = "lab8"
+uuid = "588fac9f-a730-4274-99d6-aa688e30e542"
+authors = ["KK-studia"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
